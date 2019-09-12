@@ -1,2 +1,2 @@
 # CDN-for-yangwc.com
-jsDeliver CDN
+jsDeliver CDN for https://yangwc.com.
